@@ -2,7 +2,7 @@
 <h2>
   <strong>Hi there 👋, I'm Allan</strong>
 </h2>
- <h3>Junior Developper currently working for Michelin in France.</h3>
+ <h3>Developper currently working for Michelin in France.</h3>
 </div>
 <p align=center>
   <br>
